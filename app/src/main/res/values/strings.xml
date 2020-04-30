@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HebraAsyncTask</string>
+    <string name="tarea_sin_hilos">Tarea sin hilos</string>
+    <string name="nuevo_hilo">Nuevo Hilo</string>
+    <string name="btnAsyncTask">AsyncTask</string>
+    <string name="btnThread">Thread</string>
+    <string name="tarea_finalizada">Ha completado la tarea</string>
+    <string name="lanzar_hebra">Lanzar hebra</string>
+    <string name="cancelar_hebra">Cancelar hebra</string>
+</resources>
